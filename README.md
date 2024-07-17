@@ -1,6 +1,6 @@
 # Demo Video 🎥
 
-![Django + React App for Roulettech](https://youtu.be/cs9yfc7lu8w) 
+[Django + React App for Roulettech](https://youtu.be/cs9yfc7lu8w) 
 
 # Backend Setup
 

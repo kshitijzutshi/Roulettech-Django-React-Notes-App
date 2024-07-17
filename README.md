@@ -2,6 +2,16 @@
 
 [Django + React App for Roulettech](https://youtu.be/cs9yfc7lu8w) 
 
+# Screenshots
+
+1. Register Endpoint
+
+2. Login Endpoint - User secured
+
+3. Create/View note Endpoint
+
+4. Delete Note Endpoint
+
 # Backend Setup
 
 1. pip3 install -r requirements.txt

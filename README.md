@@ -75,7 +75,7 @@
 6. In src -> constants.js; api.js; .env file
 7. npm run dev
 
-# Deployment
+# Deployment [Not implemented due to AWS account payment issues]
 
 To deploy your website to AWS, following the basic and bonus requirements, you'll need to perform several steps. This guide assumes you have an AWS account and the AWS CLI installed and configured.
 

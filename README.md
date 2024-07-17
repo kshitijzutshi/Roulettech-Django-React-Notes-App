@@ -5,12 +5,14 @@
 # Screenshots
 
 1. Register Endpoint
-
+![Register](register.png)
 2. Login Endpoint - User secured
-
+![login](login.png)
 3. Create/View note Endpoint
-
-4. Delete Note Endpoint
+![createnotes](createnotes.png)
+![viewnotes](view-notes.png)
+5. Delete Note Endpoint
+![deletenotes](deletenotes.png)
 
 # Backend Setup
 
